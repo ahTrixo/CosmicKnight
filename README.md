@@ -37,8 +37,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-Trixo
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+[Trixo]
+[MaFiA]
 
 ## Version History
 
