@@ -1,27 +1,27 @@
 # CosmicKnight
 
-Simple overview of use/purpose.
+2D Strategy game made in Unity
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+...
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* C#
+* Unity's Engine
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* 
+* 
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+* 
+* 
 ```
 code blocks for commands
 ```
@@ -37,7 +37,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
+Trixo
 ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Version History
