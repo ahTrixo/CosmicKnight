@@ -15,12 +15,12 @@
 
 ### Installing
 
-* 
+* Download the launcher from (doesnt exist lol)
 * 
 
 ### Executing program
 
-* 
+* Start the game from the launcher (doesnt exist either)
 * 
 ```
 .
