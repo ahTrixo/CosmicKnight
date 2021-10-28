@@ -1,5 +1,4 @@
-# CosmicKnightAPI
-# Project Title
+# CosmicKnight
 
 Simple overview of use/purpose.
 
