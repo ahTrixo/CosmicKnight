@@ -37,9 +37,9 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-Trixo
-MaFiA
-LielaKaka
+- Trixo
+- MaFiA
+- LielaKaka
 
 ## Version History
 
