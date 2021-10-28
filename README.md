@@ -23,19 +23,19 @@
 * 
 * 
 ```
-code blocks for commands
+.
 ```
 
 ## Help
 
 Any advise for common problems or issues.
 ```
-command to run if program contains helper info
+.
 ```
 
 ## Authors
 
-Contributors names and contact info
+Contributors names
 
 - Trixo
 - MaFiA
@@ -44,7 +44,7 @@ Contributors names and contact info
 ## Version History
 
 * 0.1
-    * Initial Release
+    * Awaiting Beta Release
 
 ## License
 
